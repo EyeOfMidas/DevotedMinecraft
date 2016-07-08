@@ -16,3 +16,6 @@
 [submodule "plugins/HiddenOre"]
 	path = plugins/HiddenOre
 	url = git@github.com:DevotedMC/HiddenOre.git
+[submodule "plugins/NameLayer"]
+	path = plugins/NameLayer
+	url = git@github.com:DevotedMC/NameLayer.git

@@ -16,6 +16,7 @@
 	<modules>
 		<!--<module>Humbug</module>-->
 		<module>HiddenOre</module>
+		<module>NameLayer</module>
 	</modules>
 
 </project>
