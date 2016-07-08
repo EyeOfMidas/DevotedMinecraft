@@ -10,3 +10,9 @@
 [submodule "BuildData"]
 	path = BuildData
 	url = https://hub.spigotmc.org/stash/scm/spigot/builddata.git
+[submodule "plugins/Humbug"]
+	path = plugins/Humbug
+	url = git@github.com:DevotedMC/Humbug.git
+[submodule "plugins/HiddenOre"]
+	path = plugins/HiddenOre
+	url = git@github.com:DevotedMC/HiddenOre.git
