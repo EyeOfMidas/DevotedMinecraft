@@ -17,6 +17,8 @@
 		<!--<module>Humbug</module>-->
 		<module>HiddenOre</module>
 		<module>NameLayer</module>
+		<module>PrisonPearl</module>
+		<module>RealisticBiomes</module>
 	</modules>
 
 </project>

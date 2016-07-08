@@ -19,3 +19,9 @@
 [submodule "plugins/NameLayer"]
 	path = plugins/NameLayer
 	url = git@github.com:DevotedMC/NameLayer.git
+[submodule "plugins/PrisonPearl"]
+	path = plugins/PrisonPearl
+	url = git@github.com:DevotedMC/PrisonPearl.git
+[submodule "plugins/RealisticBiomes"]
+	path = plugins/RealisticBiomes
+	url = git@github.com:DevotedMC/RealisticBiomes.git
