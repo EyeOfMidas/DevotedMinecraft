@@ -7,3 +7,6 @@
 [submodule "Spigot"]
 	path = Spigot
 	url = https://hub.spigotmc.org/stash/scm/spigot/spigot.git
+[submodule "BuildData"]
+	path = BuildData
+	url = https://hub.spigotmc.org/stash/scm/spigot/builddata.git
